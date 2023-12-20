@@ -1,0 +1,7 @@
+{
+  "name": "TIMEC",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "53384833158",
+    "project_id": "timect-project",
+    "storage_bucket": "timect-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53384833158:android:f02bb0aa5f4bf3598c4907",
+        "android_client_info": {
+          "package_name": "com.logsik.timecprj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53384833158-nruu8n5bp18j2dfnc48lpigm7s9n6p7t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.logsik.timecprj",
+            "certificate_hash": "7c6becad4ca690948292556d4407fb3e1e7cc3fc"
+          }
+        },
+        {
+          "client_id": "53384833158-gr3bflf78vi5hhn9tbr906bdvrftbet2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6peQxCU_LwYUWwojzagaewYAJdmvRscQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53384833158-gr3bflf78vi5hhn9tbr906bdvrftbet2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

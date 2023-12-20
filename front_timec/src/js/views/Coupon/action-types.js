@@ -1,0 +1,4 @@
+export const LOAD_UPDATING_COUPON = 'LOAD_UPDATING_COUPON';
+
+
+

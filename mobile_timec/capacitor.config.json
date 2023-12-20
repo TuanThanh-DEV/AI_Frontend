@@ -1,0 +1,8 @@
+{
+  "appId": "com.timec.appmobile",
+  "appName": "TIMEC",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}

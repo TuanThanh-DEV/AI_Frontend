@@ -1,0 +1,4 @@
+export const LOAD_UPDATING_PATIENT = 'LOAD_UPDATING_PATIENT';
+
+
+

@@ -1,0 +1,4 @@
+export const LOAD_UPDATING_JOURNAL = 'LOAD_UPDATING_JOURNAL';
+
+
+
